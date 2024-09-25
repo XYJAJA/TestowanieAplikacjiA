@@ -1,1 +1,2 @@
 # TestowanieAplikacjiA
+#cos tam
